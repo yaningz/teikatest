@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails teikatest: development" uuid="9487dba8-5a53-47a6-8b7e-7e1fedcf323d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails teikatest: test" uuid="b7809f43-b9d4-4a5a-964b-e1e5531158cd">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails teikatest: production" uuid="96d54859-d05d-4e25-8496-e57d9d7d0253">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>teikatest</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
